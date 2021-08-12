@@ -1,5 +1,6 @@
-### Olá, Bem vindo ao meu GitHub 👋 ###
+Olá, Bem vindo ao meu GitHub 👋
 
+<br/>
 
 <div>
   <a href="https://github.com/henriquecavalheiro">
